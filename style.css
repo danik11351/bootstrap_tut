@@ -1,0 +1,38 @@
+
+/* nav bar settings */
+
+/*nav bar logo position start*/
+.navbar-brand {
+
+    margin-left: 4rem;
+
+}
+/*nav bar logo position end*/
+ul > li {
+    padding: 0.75em;
+}
+/*nav bar links position start*/
+.navbar-nav{ 
+    justify-content: space-between;
+}
+
+/*nav bar links position end*/
+
+/* nav bar font family  start*/
+.nav {
+    font-family: 'Rubik', sans-serif;
+}
+/* nav bar font family end*/
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+      text-align: center;
+    }
+  }
+/* sign in sign up button position start*/
+  .btn-container {
+    margin-left: 1rem;
+  }
+/* sign in sign up button positionebd*/
+
+/* nav bar settings */
