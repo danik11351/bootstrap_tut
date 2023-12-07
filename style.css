@@ -36,8 +36,7 @@ ul > li {
         gap: 1rem;
     }
     .navbar-brand {
-        margin-right: 0;
-        margin-left: 7em;
+        margin-left: 1em;
     }
     .navbar-nav {
         margin-top: 0.5rem;
