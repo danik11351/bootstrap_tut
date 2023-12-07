@@ -1,10 +1,13 @@
+html {
+    font-family: 'Rubik', sans-serif;
 
+}
 /* nav bar settings */
 
 /*nav bar logo position start*/
 .navbar-brand {
 
-    margin-left: 4rem;
+    margin-left: 2rem;
 
 }
 /*nav bar logo position end*/
@@ -19,9 +22,6 @@ ul > li {
 /*nav bar links position end*/
 
 /* nav bar font family  start*/
-.nav {
-    font-family: 'Rubik', sans-serif;
-}
 /* nav bar font family end*/
 
 @media only screen and (max-width: 768px) {
@@ -41,12 +41,25 @@ ul > li {
     .navbar-nav {
         margin-top: 0.5rem;
     }
+    .section-1 {
+        flex-direction: row;
+    }.section-1-img-get-started {
+        display: none;
+    }
   }
 /* sign in sign up button position start*/
   .btn-container {
-    margin-left: 1rem;
+    margin-left: 4rem;
     padding: 0.85em;
   }
 /* sign in sign up button positionebd*/
 
 /* nav bar settings */
+/* section 1 settings */
+.section-1-text-get-started > p {
+    font-size: 16px;
+    color: #4F5665;
+}
+.section-1-text-get-started > h1 {
+    font-size: 40px;
+}
