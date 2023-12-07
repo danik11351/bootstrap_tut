@@ -59,3 +59,23 @@ html {
 .section-1-text-get-started > h1 {
     font-size: 40px;
 }
+/* section 1 get started button settings */
+.get-started-button-section-1 {
+	background-color:#f53838;
+	border-radius:8px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:11px 53px;
+	text-decoration:none;
+}
+.get-started-button-section-1:hover {
+	background-color:#eb675e;
+}
+.get-started-button-section-1:active {
+	position:relative;
+	top:1px;
+}
