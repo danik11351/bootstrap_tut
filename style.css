@@ -10,8 +10,6 @@ html {
     margin-left: 2rem;
 
 }
-/*nav bar logo position end*/
-/*nav bar links position start*/
 .navbar-nav{
     justify-content: space-between;
 }
