@@ -17,39 +17,6 @@ html {
 }
 
 /*nav bar links position end*/
-
-/* nav bar font family  start*/
-/* nav bar font family end*/
-
-@media only screen and (max-width: 768px) {
-    .navbar {
-      text-align: center;
-    }
-    ul > li {
-        padding: 0.30em;
-    }
-    .btn-container {
-        margin-top: 1em;
-        gap: 1rem;
-    }
-    .navbar-brand {
-        margin-left: 1em;
-    }
-    .navbar-nav {
-        margin-top: 0.5rem;
-    }
-    .section-1 {
-        flex-direction: row;
-    }.section-1-img-get-started {
-        display: none;
-    }
-    .btn-container {
-        margin-right: 48px;
-    }
-  }
-/* sign in sign up button position start*/
-/* sign in sign up button positionebd*/
-
 /* nav bar settings */
 /* section 1 settings */
 .section-1-text-get-started > p {
