@@ -11,9 +11,6 @@ html {
 
 }
 /*nav bar logo position end*/
-ul > li {
-    padding: 1em;
-}
 /*nav bar links position start*/
 .navbar-nav{
     justify-content: space-between;
@@ -46,12 +43,11 @@ ul > li {
     }.section-1-img-get-started {
         display: none;
     }
+    .btn-container {
+        margin-right: 48px;
+    }
   }
 /* sign in sign up button position start*/
-  .btn-container {
-    margin-left: 4rem;
-    padding: 0.85em;
-  }
 /* sign in sign up button positionebd*/
 
 /* nav bar settings */
