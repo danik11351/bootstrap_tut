@@ -18,6 +18,18 @@
     .btn-container { 
         margin-left: 48px;
     }
-    .section-2 > .row > .col { ;
+    .section-2 { 
+        width: 90%;
+    }
+    .section-2-row { 
+        display: flex;
+        flex-direction: column;
+    }
+    .section-2-location {
+        margin-left: 0.8rem;
+    }
+    .section-2-servers {
+        margin-left: 0.4rem;
+
     }
   }
