@@ -44,3 +44,8 @@ html {
 	position:relative;
 	top:1px;
 }
+ /* section 3 settings */
+ /* section 3 small check mark icon container settigns */
+ .section-3-text {
+	font-size: 13;
+ }
