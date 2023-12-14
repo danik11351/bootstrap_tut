@@ -40,3 +40,8 @@
     transform: translateY(0);
    }
    /* section 1 get started button animation */
+   /* cards animation */
+   .card:hover{
+    border:5px solid #b217b4;
+    transform:ease(1.2);
+}
