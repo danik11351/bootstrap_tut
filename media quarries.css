@@ -48,4 +48,23 @@
         flex-direction: column;
         gap: 3rem   ;
     }
+    .sponser-container {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .section-6-reviews{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 95%;
+        gap: 1rem;
+        margin: 0;
+    }
+    .get-started-container   {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
   }
+
